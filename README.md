@@ -8,6 +8,12 @@ Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
+$ pip install -r requirements.txt
+
+```
+
+```#!bash
+
 $ python top_words.py
 
 ```
